@@ -30,7 +30,7 @@ export default function OverviewPage() {
           <CardContent>
             <div className="text-2xl font-bold">12</div>
             <p className="text-xs text-muted-foreground">
-              +2 since last month
+              +2 since last week
             </p>
           </CardContent>
         </Card>
@@ -55,7 +55,7 @@ export default function OverviewPage() {
           <CardContent>
             <div className="text-2xl font-bold">45</div>
             <p className="text-xs text-muted-foreground">
-              +5 since last month
+              +5 since last week
             </p>
           </CardContent>
         </Card>
@@ -79,7 +79,7 @@ export default function OverviewPage() {
           <CardContent>
             <div className="text-2xl font-bold">2,345</div>
             <p className="text-xs text-muted-foreground">
-              +18% from last month
+              +18% from last week
             </p>
           </CardContent>
         </Card>

@@ -8,7 +8,7 @@ export default function VotesPage() {
           </p>
         </div>
         <div className="border rounded-md p-8 text-center">
-          <h3 className="text-lg font-medium">Votes Management</h3>
+          <h3 className="text-lg font-medium">User Management</h3>
           <p className="text-muted-foreground mt-2">
             This section will be implemented in a future update.
           </p>

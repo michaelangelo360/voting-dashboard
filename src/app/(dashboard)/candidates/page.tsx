@@ -2,7 +2,7 @@ export default function VotesPage() {
     return (
       <div className="space-y-6">
         <div>
-          <h2 className="text-3xl font-bold tracking-tight">Votes</h2>
+          <h2 className="text-3xl font-bold tracking-tight">Candidate</h2>
           <p className="text-muted-foreground">
             Voting Canditates view 
           </p>
